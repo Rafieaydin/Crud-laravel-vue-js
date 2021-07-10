@@ -5,19 +5,18 @@ Crud laravel + vue js with api and template volar + vuetify component
 
 - Dashboard
  
-<img src='https://i.postimg.cc/CxkDB5Dy/Dashboard.png' border='0' alt='Dashboard'/>
+<img src='https://i.postimg.cc/3xF9M2LJ/Dashboard.png' border='0' alt='Dashboard'/>
 
 - Table
-
-<img src='https://i.postimg.cc/wvv7Vjtj/Table.png' border='0' alt='Table'/><br />
+<img src='https://i.postimg.cc/nrmY3mjx/Table.png' border='0' alt='Table'/>
 
 - Form
 
-<img src='https://i.postimg.cc/bwh0R1qY/tambah.png' border='0' alt='tambah'/><br />
+<img src='https://i.postimg.cc/C5pfLQ5y/tambah.png' border='0' alt='tambah'/>
 
 - Alert
 
-<img src='https://i.postimg.cc/DZ94wKZf/alert.png' border='0' alt='alert'/>
+<img src='https://i.postimg.cc/g2tX6JjH/alert.png' border='0' alt='alert'/>
 
 # Getting started
 
